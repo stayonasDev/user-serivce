@@ -1,4 +1,4 @@
-ackage com.example.user_service;
+package com.example.user_service;
 
 import java.util.Map;
 import org.springframework.web.bind.annotation.RestController;
